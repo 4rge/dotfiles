@@ -1,0 +1,13 @@
+rofi.lines: 5
+rofi.eh: 2
+rofi.padding: 200
+rofi.fullscreen: true
+rofi.bw: 0
+rofi.separator-style: none
+rofi.hide-scrollbar: true
+
+!                  'background', 'border', 'separator'
+rofi.color-window: #000000, #FFFFFF, #FFFFFF
+! State:           'bg',     'fg',     'bgalt',  'hlbg',   'hlfg'
+rofi.color-normal: #000000, #00FF00, argb:031d1f21, argb:031d1f21, #FFFFFF 
+rofi.font: System Nimbus Mono PS Bold Display 10
